@@ -1,5 +1,5 @@
 sonar.login=admin
-    D sonar.password=eswar
+    D sonar.password=Ramu
       sonar.projectBaseDir=/var/lib/jenkins/workspace/jenkins-sonar/
         sonar.projectKey=sonar
         sonar.projectName=project
